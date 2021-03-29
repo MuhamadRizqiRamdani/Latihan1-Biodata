@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">perkenalan</string>
+    <string name="nama">Nama : Muhamad Rizqi Ramdani</string>
+    <string name="nim">Nim : 10118069</string>
+    <string name="kelas">Kelas : IF-2</string>
+    <string name="jenis_kelamin">Jenis Kelamin : Laki - Laki</string>
+    <string name="ttl">Tempat Tanggal Lahir : Bandung, 10 Desember 2000 </string>
+    <string name="alm_rmh">Alamat : Kp. Sampora Rt/Rw. 3/10 Kec. Cibinong Kab. Bogor</string>
+    <string name="GD">Golongan Darah : A</string>
+    <string name="makanan">Makanan Favorit : Indomie Goreng</string>
+    <string name="minuman">Minuman Favorit : Kopi</string>
+    <string name="hobi">Hobi : Bermain Game</string>
+    <string name="lagu_favorit">Lagu Favorit : Symphoni, Somebody That I Used To Know, Royals</string>
+    <string name="film_favorit">Film Favorit : Oceans Eleven, The God Father, The Irishman</string>
+    <string name="pekerjaan">Pekerjaan yang Diinginkan : Network Architect</string>
+</resources>
